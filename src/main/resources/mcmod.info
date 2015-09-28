@@ -1,0 +1,10 @@
+[{
+    "modid": "yarom",
+    "name": "Yet Another Random Ore Mod",
+    "description": "Adds a new type of ore block that drops random ore when mined.",
+    "version": "${mod_version}",
+    "mcversion": "${minecraft_version}-${forge_version}",
+    "url": "https://github.com/airbreather/YAROM",
+    "authors": [ "airbreather" ],
+    "dependencies": []
+}]
