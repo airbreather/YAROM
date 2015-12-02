@@ -13,7 +13,6 @@ public final class YaromMod
     {
 		YaromBlocks.init();
 		LottoWorldGenerator.init();
-		LottoBlockEventHandler.init();
     }
 }
 
